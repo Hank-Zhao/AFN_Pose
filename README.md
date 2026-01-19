@@ -1,2 +1,2 @@
 # AFN-Pose Supporting Data
-The data and code supporting the findings of this study are available from the corresponding author upon reasonable request.
+You can see the AFN-Pose training log in this link https://drive.google.com/file/d/1G5zLi23Zw5LmsPURZaS8eqFI0zwT6PQU/view?usp=share_link
